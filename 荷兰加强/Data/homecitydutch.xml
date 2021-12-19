@@ -791,7 +791,7 @@
       <level>0</level>
       <prereqtech>-1</prereqtech>
       <age>3</age>
-      <displayunitcount>1</displayunitcount>
+      <!-- <displayunitcount>1</displayunitcount> -->
     </card>
     <card>
       <name>HCRobberBarons</name>
@@ -799,7 +799,7 @@
       <level>10</level>
       <prereqtech>HCUnlockFactory</prereqtech>
       <age>3</age>
-      <displayunitcount>1</displayunitcount>
+      <!-- <displayunitcount>1</displayunitcount> -->
     </card>
     <card>
       <name>HCXPRanching</name>
